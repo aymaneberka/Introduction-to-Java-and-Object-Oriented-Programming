@@ -1,0 +1,14 @@
+Which of the following declares a class correctly? :
+ public class CIT { } 
+How would you define a function getsumwhich returns an intvalue? :
+ int getSum() { } 
+Where is an object's data stored? :
+Fields 
+How do you create an instance of the class CIT? :
+CIT cit590 = new CIT();
+What is the correct way to create a constructor for a Book class? :
+Public Book(){}
+You can write a Java program without creating one or more classes. : 
+false
+Fields are available throughout the entire class that declares them:
+true
