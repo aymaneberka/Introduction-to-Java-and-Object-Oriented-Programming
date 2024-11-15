@@ -1,0 +1,22 @@
+Question 1
+Choose the appropriate data type for this value: 
+5.5 :double
+Question 2
+What will the following code result in? 
+int num = 6.7; :compile error
+Question 3
+Which of the following types is not a primitive data type in Java? :String
+Question 4
+Which statement is correct in syntax?:int myInt=2;
+Question 5
+What will the code below output?  :true
+Question 6
+If you want your condition to depend on both conditions being true, what’s the proper notation?:&&
+Question 7
+What’s the correct syntax for Java’s main method?  public static void main(String[]args)
+Question 8
+If you want to define a char first, and then a String, what’s the correct type of quotation marks (and order) to use? :First’’,then’’’’
+Question 9
+What will the code below output? :'’Hello!0’’
+Question 10
+What is used in Java to surround code blocks? :{}
